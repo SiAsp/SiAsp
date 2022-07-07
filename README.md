@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning about intelligence; methods and principles for information gathering and OSINT
-- 💬 Ask me about Semantics, Ontologies, Knowledge Graphs or information representation in general. As well as other AI fields including ML, and data engineering and data science.
+- 💬 Ask me about Semantics, Ontologies, Knowledge Graphs or information representation in general, as well as other AI fields including ML, and data engineering and data science.
 - 📫 How to reach me: [E-mail](sindre@asplem.no) | [Linkedin](https://www.linkedin.com/in/sindreasplem) | [Twitter](https://twitter.com/SAsplem)
 
